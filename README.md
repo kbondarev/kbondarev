@@ -13,7 +13,7 @@
       </picture>
     </a>
     &nbsp;
-    <a href="https://matrix.to/#/@captiankirk:matrix.org"><img src="https://img.shields.io/badge/Matrix-0dbd8b?logo=Matrix&logoColor=white" alt="Matrix"/></a>
+    <a href="https://matrix.to/#/@kiro_cooper:matrix.org"><img src="https://img.shields.io/badge/Matrix-0dbd8b?logo=Matrix&logoColor=white" alt="Matrix"/></a>
   </div>
 
   <h2 style="margin-bottom: 0;">Hello, world! :wave::earth_americas: I'm Kiro :ninja:</h2>
