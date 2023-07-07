@@ -37,7 +37,7 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="38" height="38"/>&nbsp;
   </div>
 
-  <hr />
+  <br />
 
   <div>
     <picture>
